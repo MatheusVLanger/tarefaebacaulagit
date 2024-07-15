@@ -1,0 +1,16 @@
+INÍCIO
+
+    1. Despertador toca
+    2. Desligar o despertador
+    3. Levantar da cama
+    4. Ir ao banheiro
+        4.1. Escovar os dentes
+        4.2. Lavar o rosto
+    5. Vestir-se
+    6. Tomar café da manhã
+        6.1. Preparar o café da manhã
+        6.2. Comer
+    7. Recolher os itens necessários para o dia (ex.: chaves, carteira, celular)
+    8. Sair de casa
+
+FIM
